@@ -1,13 +1,6 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
+import { Row, Col, Button } from 'react-bootstrap';
 
-// prettier-ignore
-import {
-  Row,
-  Col,
-  Button,
-} from 'react-bootstrap';
-
-// eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends Component {
   render() {
     return (
