@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 // prettier-ignore
 import {
-  Container,
   Row,
   Col,
   Button,
@@ -12,15 +11,15 @@ import {
 class Calculator extends Component {
   render() {
     return (
-      <Container>
-        <Row className="m-2">
+      <div className="container">
+        <Row className="m-3">
           <Col>
             <div dir="rtl" className="w-100 p-2">
               0
             </div>
           </Col>
         </Row>
-        <Row className="m-2">
+        <Row className="m-3">
           <Col>
             <Button className="w-100 p-4">AC</Button>
           </Col>
@@ -36,7 +35,7 @@ class Calculator extends Component {
             </Button>
           </Col>
         </Row>
-        <Row className="m-2">
+        <Row className="m-3">
           <Col>
             <Button className="w-100 p-4">7</Button>
           </Col>
@@ -52,7 +51,7 @@ class Calculator extends Component {
             </Button>
           </Col>
         </Row>
-        <Row className="m-2">
+        <Row className="m-3">
           <Col>
             <Button className="w-100 p-4">4</Button>
           </Col>
@@ -68,7 +67,7 @@ class Calculator extends Component {
             </Button>
           </Col>
         </Row>
-        <Row className="m-2">
+        <Row className="m-3">
           <Col>
             <Button className="w-100 p-4">1</Button>
           </Col>
@@ -84,7 +83,7 @@ class Calculator extends Component {
             </Button>
           </Col>
         </Row>
-        <Row className="m-2">
+        <Row className="m-3">
           <Col>
             <Button className="w-100 p-4">0</Button>
           </Col>
@@ -97,7 +96,7 @@ class Calculator extends Component {
             </Button>
           </Col>
         </Row>
-      </Container>
+      </div>
     );
   }
 }
