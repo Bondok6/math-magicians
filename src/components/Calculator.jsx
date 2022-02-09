@@ -2,6 +2,11 @@ import { Component } from 'react';
 import { Row, Col, Button } from 'react-bootstrap';
 
 class Calculator extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
+  }
+
   render() {
     return (
       <div className="container">
