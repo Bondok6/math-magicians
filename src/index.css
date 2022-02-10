@@ -16,9 +16,11 @@ body {
   margin-top: 10rem;
 }
 
-.p-2 {
+.display {
   background-color: gray;
   font-size: 3rem;
+  height: 6rem;
+  text-align: end;
 }
 
 .p-4 {
