@@ -159,28 +159,3 @@ const Calculator = () => {
 };
 
 export default Calculator;
-
-// class Calculator extends Component {
-//   constructor(props) {
-//     super(props);
-
-//     this.state = {
-//       total: null,
-//       next: null,
-//       operation: null,
-//     };
-
-//     this.clickHandler = this.clickHandler.bind(this);
-//   }
-
-//   clickHandler(e) {
-//     this.setState((state) => calculate(state, e.target.textContent));
-//   }
-
-//   render() {
-//     const { total, next, operation } = this.state;
-
-//   }
-// }
-
-// export default Calculator;
