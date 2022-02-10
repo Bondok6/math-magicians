@@ -3,15 +3,15 @@ import { Row, Col, Button } from 'react-bootstrap';
 import calculate from './logic/calculate';
 
 const Calculator = () => {
-  const [total, setTotal] = useState(null);
-  const [operation, setOperation] = useState(null);
-  const [next, setNext] = useState(null);
+  const [result, setResult] = useState({
+    total: null,
+    operation: null,
+    next: null,
+  });
 
   const clickHandler = (e) => {
-    const obj = calculate({ total, operation, next }, e.target.textContent);
-    setTotal(obj.total);
-    setOperation(obj.operation);
-    setNext(obj.next);
+    const obj = calculate(result, e.target.textContent);
+    setResult(obj);
   };
 
   return (
@@ -19,9 +19,9 @@ const Calculator = () => {
       <Row className="m-3">
         <Col>
           <div className="w-100 p-2 display">
-            {total}
-            {operation}
-            {next}
+            {result.total}
+            {result.operation}
+            {result.next}
           </div>
         </Col>
       </Row>
