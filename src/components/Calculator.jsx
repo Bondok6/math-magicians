@@ -10,8 +10,7 @@ const Calculator = () => {
   });
 
   const clickHandler = (e) => {
-    const obj = calculate(result, e.target.textContent);
-    setResult(obj);
+    setResult(calculate(result, e.target.textContent));
   };
 
   return (
