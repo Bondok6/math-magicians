@@ -7,17 +7,17 @@ const MainHeader = () => (
     <h1 className="nav__title">Math Magicians</h1>
     <ul className="nav__links">
       <li>
-        <Link to="/home" className="nav__link">
+        <Link to="/math-magicians/" className="nav__link">
           Home
         </Link>
       </li>
       <li>
-        <Link to="/calculator" className="nav__link">
+        <Link to="/math-magicians/calculator" className="nav__link">
           Calculator
         </Link>
       </li>
       <li>
-        <Link to="/quote" className="nav__link">
+        <Link to="/math-magicians/quote" className="nav__link">
           Quote
         </Link>
       </li>
