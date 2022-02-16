@@ -1,4 +1,4 @@
-import operate from './../../logic/operate';
+import operate from '../../logic/operate';
 
 it('operations test', () => {
   expect(operate(2, 2, '+')).toBe('4');

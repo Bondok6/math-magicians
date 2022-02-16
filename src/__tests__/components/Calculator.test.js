@@ -1,5 +1,7 @@
-import Calculator from './../../components/Calculator';
-import { render, fireEvent, waitFor, screen } from '@testing-library/react';
+import {
+  render, fireEvent, waitFor, screen,
+} from '@testing-library/react';
+import Calculator from '../../components/Calculator';
 
 it('test calculator component', () => {
   const tree = render(<Calculator />);
