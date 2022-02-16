@@ -13,7 +13,7 @@ Object {
         >
           <div
             class="w-100 p-2 display"
-            test-id="display"
+            data-test-id="display"
           />
         </div>
       </div>
@@ -238,7 +238,7 @@ Object {
       >
         <div
           class="w-100 p-2 display"
-          test-id="display"
+          data-test-id="display"
         />
       </div>
     </div>
