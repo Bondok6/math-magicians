@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Row, Col, Button } from 'react-bootstrap';
-import calculate from './logic/calculate';
+import calculate from '../logic/calculate';
 
 const Calculator = () => {
   const [result, setResult] = useState({
