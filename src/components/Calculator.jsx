@@ -18,7 +18,7 @@ const Calculator = () => {
     <>
       <Row className="m-3">
         <Col>
-          <div className="w-100 p-2 display" data-test-id="display">
+          <div className="w-100 p-2 display" data-testid="display">
             {result.total}
             {result.operation}
             {result.next}
