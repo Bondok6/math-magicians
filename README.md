@@ -43,7 +43,12 @@ Finally `npm start`
 👤 **Kyrillos Hany**
 
 - GitHub: [@Bondok6](https://github.com/Bondok6)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
+
+👤 **Carlos Herver**
+
+- GitHub: [@Carlos](https://github.com/carloshs1994)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carloshs94/)
 
 ## 🤝 Contributing
 
