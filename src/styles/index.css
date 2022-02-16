@@ -2,7 +2,19 @@
   margin: 0;
   padding: 0;
   box-sizing: inherit;
-  color: #fff;
+  color: var(--white-clr);
+}
+
+:root {
+  --bg-primary: #3450a1;
+  --bg-secondary: #041955;
+  --white-clr: #fff;
+  --gray-clr: #bbc2d8;
+  --border-clr: #d103fc;
+}
+
+::selection {
+  background-color: var(--border-clr);
 }
 
 html {
@@ -13,18 +25,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   font-size: 20px;
-  margin-top: 10rem;
-}
-
-.display {
-  background-color: gray;
-  font-size: 3rem;
-  height: 6rem;
-  text-align: end;
-}
-
-.p-4 {
-  font-size: 2rem;
+  background-color: var(--bg-primary);
 }
 
 @media screen and (max-width: 600px) {

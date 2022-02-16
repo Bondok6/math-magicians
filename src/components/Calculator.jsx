@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Row, Col, Button } from 'react-bootstrap';
-import calculate from './logic/calculate';
+import calculate from '../logic/calculate';
+import '../styles/Calculator.css';
 
 const Calculator = () => {
   const [result, setResult] = useState({
@@ -14,7 +15,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="container">
+    <>
       <Row className="m-3">
         <Col>
           <div className="w-100 p-2 display">
@@ -154,7 +155,7 @@ const Calculator = () => {
           </Button>
         </Col>
       </Row>
-    </div>
+    </>
   );
 };
 

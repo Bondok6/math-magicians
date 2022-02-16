@@ -1,0 +1,20 @@
+.quote-section {
+  margin-top: 20rem;
+}
+
+.quote-section q {
+  font-size: 4rem;
+}
+
+.quote-section span {
+  display: block;
+  text-align: center;
+  margin: 5rem;
+}
+
+@media screen and (max-width: 500px) {
+  .quote-section q {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+}

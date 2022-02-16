@@ -24,7 +24,7 @@
 
 ## Live Demo 🌐
 
-### [Math-Magicians Link](https://bondok6.github.io/math-magicians/)
+### [Math-Magicians Link](http://Bondok6.github.io/math-magicians)
 
 ## Getting Started
 

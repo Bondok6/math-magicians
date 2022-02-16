@@ -1,0 +1,43 @@
+.nav {
+  width: 100vw;
+  min-height: 10vh;
+  background-color: var(--bg-secondary);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav__title {
+  font-size: 4rem;
+  font-weight: bolder;
+  letter-spacing: 0.5rem;
+  line-height: 1rem;
+  color: var(--gray-clr);
+  font-style: italic;
+  text-shadow: 0 0.5rem 1rem var(--border-clr);
+}
+
+.nav__links {
+  list-style-type: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav__link {
+  text-decoration: none;
+  color: var(--white-clr);
+  transition: 0.4s;
+}
+
+.nav__link:hover,
+.nav__link:focus {
+  color: var(--border-clr);
+}
+
+@media screen and (max-width: 600px) {
+  .nav__title {
+    padding-top: 1rem;
+    font-size: 3rem;
+    letter-spacing: 0;
+  }
+}
