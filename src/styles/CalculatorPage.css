@@ -1,0 +1,27 @@
+.calculator-section {
+  width: 100vw;
+  min-height: 80vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.calculator-section h2 {
+  font-size: 4rem;
+  align-self: flex-start;
+  margin-top: 10rem;
+}
+
+.calculator {
+  width: 60%;
+}
+
+@media screen and (max-width: 800px) {
+  .calculator-section {
+    flex-direction: column;
+  }
+
+  .calculator {
+    width: 100%;
+  }
+}

@@ -1,9 +1,17 @@
 import React from 'react';
+import '../styles/Quote.css';
 
 const Quote = () => (
   <>
-    <h1>hello</h1>
-    <span>world</span>
+    <section className="container quote-section">
+      <h2>
+        <q>
+          Mathematics is not about numbers, equations, computations, or
+          algorithms: it is about understanding.
+        </q>
+        <span>- William Paul Thurstion.</span>
+      </h2>
+    </section>
   </>
 );
 
