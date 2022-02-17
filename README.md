@@ -38,6 +38,10 @@ Then `npm install` to install packages
 
 Finally `npm start`
 
+## To test the App
+
+Run `npm run test`
+
 ## Authors
 
 👤 **Kyrillos Hany**
