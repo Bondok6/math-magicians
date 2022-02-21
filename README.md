@@ -22,11 +22,12 @@
 - Jest (testing)
 - Linters
 
-## Live Demo 🌐
+## Live Demo Links 🌐
 
-### [Math-Magicians Link](http://Bondok6.github.io/math-magicians)
+1. [Github Deploy Link](http://Bondok6.github.io/math-magicians)
 
-<!-- ### ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) -->
+2. [![Heroku Deploy Link](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1&root=index.html)](https://bondok-math-magicians.herokuapp.com/math-magicians/)
+
 <!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/35d3183f-57ba-41f6-9379-83e7a9f8aec7/deploy-status)](https://dazzling-bartik-f9e0f8.netlify.app/) -->
 
 
