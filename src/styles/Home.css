@@ -1,0 +1,12 @@
+.home-section {
+  margin-top: 5rem;
+}
+
+.home-section h2 {
+  font-size: 3rem;
+}
+
+.home-section p {
+  margin: 4rem 0;
+  text-align: justify;
+}
