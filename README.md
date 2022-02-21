@@ -47,23 +47,25 @@ Finally `npm start`
 
 Run `npm run test`
 
-## Authors
+## Author
 
 👤 **Kyrillos Hany**
 
 - GitHub: [@Bondok6](https://github.com/Bondok6)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
 
-👤 **Carlos Herver**
-
-- GitHub: [@Carlos](https://github.com/carloshs1994)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carloshs94/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+
+## List of Contribuitors
+
+👤 **Carlos Herver**
+
+- GitHub: [@Carlos](https://github.com/carloshs1994)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carloshs94/)
 
 ## Show your support
 
