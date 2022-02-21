@@ -26,6 +26,10 @@
 
 ### [Math-Magicians Link](http://Bondok6.github.io/math-magicians)
 
+<!-- ### ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) -->
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/35d3183f-57ba-41f6-9379-83e7a9f8aec7/deploy-status)](https://dazzling-bartik-f9e0f8.netlify.app/) -->
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -38,12 +42,21 @@ Then `npm install` to install packages
 
 Finally `npm start`
 
+## To test the App
+
+Run `npm run test`
+
 ## Authors
 
 👤 **Kyrillos Hany**
 
 - GitHub: [@Bondok6](https://github.com/Bondok6)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kyrillos-hany/)
+
+👤 **Carlos Herver**
+
+- GitHub: [@Carlos](https://github.com/carloshs1994)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/carloshs94/)
 
 ## 🤝 Contributing
 
