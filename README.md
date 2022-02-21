@@ -26,6 +26,8 @@
 
 ### [Math-Magicians Link](http://Bondok6.github.io/math-magicians)
 
+### [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
