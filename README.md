@@ -24,11 +24,11 @@
 
 ## Live Demo Links 🌐
 
-1. [Github Deploy Link](http://Bondok6.github.io/math-magicians)
+[Github Deploy Link](http://Bondok6.github.io/math-magicians)
 
-2. [![Heroku Deploy Link](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1&root=index.html)](https://bondok-math-magicians.herokuapp.com/math-magicians/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e7552dc-b98a-4bfc-bc96-a757f2a56908/deploy-status)](https://bondok-math.netlify.app)
 
-<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/35d3183f-57ba-41f6-9379-83e7a9f8aec7/deploy-status)](https://dazzling-bartik-f9e0f8.netlify.app/) -->
+[![Heroku Deploy Link](http://heroku-badge.herokuapp.com/?app=angularjs-crypto&style=flat&svg=1&root=index.html)](https://bondok-math-magicians.herokuapp.com/math-magicians/)
 
 
 ## Getting Started
