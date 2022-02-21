@@ -3,7 +3,8 @@
   "name": "math-magicians",
   "version": "0.1.0",
   "engines": {
-    "node": "16.13.2"
+    "node": "16.13.2",
+    "npm": "8.3.0"
   },
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@testing-library/user-event": "^13.5.0",
     "big.js": "^6.1.1",
     "bootstrap": "^5.1.3",
+    "create-app-react": "^1.0.6",
     "react": "^17.0.2",
     "react-bootstrap": "^2.1.2",
     "react-dom": "^17.0.2",
