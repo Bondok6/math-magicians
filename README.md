@@ -26,7 +26,9 @@
 
 ### [Math-Magicians Link](http://Bondok6.github.io/math-magicians)
 
-### [![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
+<!-- ### ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge) -->
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/35d3183f-57ba-41f6-9379-83e7a9f8aec7/deploy-status)](https://dazzling-bartik-f9e0f8.netlify.app/) -->
+
 
 ## Getting Started
 
